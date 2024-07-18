@@ -1,6 +1,6 @@
-# Santander Dev Week 2023
+# Santander Bootcamp 2024
 
-Java RESTful API criada para a Santander Dev Week.
+API criada para a Santander Bootcamp 2024.
 
 ## Principais Tecnologias
  - **Java 22**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
